@@ -8,7 +8,8 @@ const app = express();
 const authRoutes = require('./routes/user');
 const sauceRoutes = require('./routes/sauces');
 
-//tnyEztHnpBOo4PhT
+//ADMIN : SoPekockoADMIN:OoOypk3I4dTD8iDO
+//CélianN:GBiMOsPeuwlMO1yn
 mongoose
   .connect(
     'mongodb+srv://CelianN:GBiMOsPeuwlMO1yn@sopekocko.n9gok.mongodb.net/SoPekockoDatabase?retryWrites=true&w=majority',
